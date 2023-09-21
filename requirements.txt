@@ -7,3 +7,5 @@ python-jose[cryptography]
 mysqlclient
 gunicorn
 wheel
+pytz
+pydantic_settings
